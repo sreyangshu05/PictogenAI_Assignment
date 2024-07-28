@@ -1,0 +1,1 @@
+# PictogenAI_Assignment
